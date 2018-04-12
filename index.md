@@ -1,37 +1,54 @@
-## Welcome to GitHub Pages
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Neogence 霓淨思</title>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <link href="css/bootstrap.min.css" rel="stylesheet">
 
-You can use the [editor on GitHub](https://github.com/llexllexll/nickhsinyi/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+</head>
+<body>
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+      <div class="container-fluid">
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+          <div class="row">
+              <div class="col-md-12 col-xs-12 aa">
+                <img src="images/20180301_EDM-pc_01.jpg" class="width-full hidden-xs">
+                <img src="images/20180301_EDM_01.jpg" class="width-full visible-xs-inline">
+              </div>
+          </div>
 
-```markdown
-Syntax highlighted code block
+          <div class="row">
+              <div class="col-md-12 col-xs-12 aa">
+                <img src="images/20180301_EDM-pc_02.jpg" class="width-full hidden-xs">
+                <img src="images/20180301_EDM_02.jpg" class="width-full visible-xs-inline">
+              </div>
+          </div>
 
-# Header 1
-## Header 2
-### Header 3
+          <div class="row">
+              <div>
 
-- Bulleted
-- List
+                <div class="col-md-12 col-xs-6 aa">
+                  <img src="images/20180301_EDM-pc_03.jpg" class="width-full hidden-xs">
+                  <img src="images/20180301_EDM_03.jpg" class="width-full visible-xs-inline">
+                </div>
 
-1. Numbered
-2. List
+                <div  class="col-md-12 col-xs-6 aa">
+                  <img src="images/20180301_EDM-pc_04.jpg" class="width-full hidden-xs">
+                  <img src="images/20180301_EDM_04.jpg" class="width-full visible-xs-inline">
+                </div>
 
-**Bold** and _Italic_ and `Code` text
+              </div>
+          </div>
 
-[Link](url) and ![Image](src)
-```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
-### Jekyll Themes
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/llexllexll/nickhsinyi/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+      </div>
 
-### Support or Contact
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+
+
+</body>
+</html>
